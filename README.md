@@ -7,7 +7,7 @@ Built using a hybrid deep learning model trained on the **HAM10000** dataset.
 
 ## 🚀 Demo
 
-👉 **Try it live**: [https://your-username-your-repo.streamlit.app](#) *(Replace this with your actual Streamlit Cloud link after deployment)*
+👉 **Try it live**: [https://skin-lesion-classifier.streamlit.app/](#)
 
 ---
 
